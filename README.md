@@ -2,6 +2,7 @@
 This repository contains a collection of Python projects that illustrate practical applications and core programming concepts. Each project was designed to build a specific set of skills, helping to solidify Python fundamentals.
 
 Projects
+
 1- Password Manager
 A secure, user-friendly password manager for storing, retrieving, and managing passwords securely.
 Features: Data encryption, simplified user interface, error handling.
